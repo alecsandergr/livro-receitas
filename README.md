@@ -1,6 +1,6 @@
 # Livro de receitas
 
-Ola! 
+Olá! 
 
  - Strogonoff
  - Brownie
